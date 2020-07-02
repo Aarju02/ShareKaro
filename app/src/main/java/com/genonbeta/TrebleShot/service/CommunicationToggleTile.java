@@ -17,7 +17,6 @@ import com.genonbeta.TrebleShot.util.AppUtils;
  * created by: Veli
  * date: 10.10.2017 07:58
  */
-
 @RequiresApi(api = Build.VERSION_CODES.N)
 public class CommunicationToggleTile extends TileService
 {

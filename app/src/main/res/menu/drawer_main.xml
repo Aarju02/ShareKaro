@@ -71,21 +71,18 @@
 <!--            android:icon="@drawable/ic_favorite_white_24dp"-->
 <!--            android:orderInCategory="17"-->
 <!--            android:title="@string/butn_donate"-->
-<!--            android:visible="false" />-->
+        <!--            android:visible="false" />-->
 
         <item
             android:id="@+id/menu_activity_main_ts_dt"
             android:orderInCategory="18"
-            android:title="Made possible by Gbeta,Tshot."
+            android:icon="@drawable/ic_favorite_white_24dp"
+            android:title="An Open Source Project"
             tools:ignore="MenuTitle" />
         <item
             android:id="@+id/lastone"
             android:orderInCategory="19"
-            android:title="Open source project"/>
-        <item
-            android:id="@+id/lastonebut"
-            android:orderInCategory="20"
-            android:title="Karnataka,India"/>
+            android:title="Made With ❤ In India"/>
 
     </group>
 </menu>
